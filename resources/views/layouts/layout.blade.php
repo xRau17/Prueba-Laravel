@@ -10,7 +10,7 @@
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
     
-    <title>@yield('titulo') - ONLINE Marroquinería</title>
+    <title>@yield('titulo')Tienda Oline</title>
   </head>
   <body>
     @include('partials.menuprin')
